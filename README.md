@@ -25,9 +25,9 @@ Output: an Excel file with additional columns flagging detected issues.
 ---
 
 ## Setup
-
+openai api key is requierd inside the .env file for LLM analysis
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
 
-openai api key is requierd inside the .env file for LLM analysis
+
